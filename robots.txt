@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thainauho.froschloch.com/sitemap.xml
